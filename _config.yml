@@ -1,0 +1,28 @@
+name: salzman
+favicon: null
+layout_spectrum: 0.5032409888226539
+typography_spectrum: 0.8440451628994197
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.2817079545930028
+  lightness: 0.8813134417869151
+  saturation: 0.10779102705419064
+  rhythmicContrast: 0.8574244091287255
+purpose: []
